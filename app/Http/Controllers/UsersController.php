@@ -2,8 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\API\User\StoreRequest;
-use App\Repositories\UserRepository;
 use Illuminate\Contracts\Support\Renderable;
 
 
